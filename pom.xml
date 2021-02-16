@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>Project_Jee</artifactId>
+    <artifactId>Jee_Project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
@@ -29,9 +29,12 @@
             <version>3.0.1</version>
             <scope>provided</scope>
         </dependency>
-
+<!--        <dependency>-->
+<!--            <groupId>junit</groupId>-->
+<!--            <artifactId>junit</artifactId>-->
+<!--            <version>4.13.2</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
 
     </dependencies>
-
-
 </project>
